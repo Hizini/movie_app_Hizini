@@ -1,3 +1,3 @@
 # Movie App
 
-React JS Fundamentals
+☞ https://hizini.github.io/movie_app_Hizini/#/
